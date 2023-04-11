@@ -12,3 +12,8 @@
 <a href="https://instagram.com/spider_mech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spider_mech" height="30" width="40" /></a>
 <a href="https://discord.gg/Discord : spidermech#2801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord : spidermech#2801" height="30" width="40" /></a>
 </p>
+
+[![Discord Banner](https://discordapp.com/api/guilds/1095267122327855164/widget.png?style=banner490321032394047509)](https://discord.gg/XYZSPR48)
+
+[![Discord Banner](https://discordapp.com/api/guilds/1095267122327855164/widget.png?style=banner[&USER ID=490321032394047509])](https://discord.gg/XYZSPR48)
+
